@@ -65,3 +65,27 @@ http://www.lanl.gov/science-innovation/science-programs/office-of-science-progra
 https://science.gsfc.nasa.gov/sed/bio/gary.f.hinshaw
 https://www.phas.ubc.ca/users/gary-hinshaw
 https://science.energy.gov/~/media/hep/pdf/files/pdfs/tfcrreport.pdf
+
+
+
+## Abstract for Oklahoma Reserach Day
+We are going to start with the abstract:
+ABSTRACT CONTENT (979 characters out of 1500)
+
+The objective of this research is to better understand the current work being done with Cosmic Microwave Background (CMB).
+Our thesis is that multiple open research questions remain within the field of CMB, and some are better suited for study using tools from computer science, including artificial intelligence, machine learning, and data science.
+Our method of study is a literature review. We began our review with the Lambda group, a part of NASA's High Energy Astrophysics Science Archive Research Center. We extended our research to include literature related to the Wilkinson Microwave Anisotropy Probe. 
+Our preliminary work suggests that NASA holds a wealth of information on this topic and has made it freely availible to the public. Through our partnership with the OneOklahoma Cyberinfrastructure Inititive (OneOCII), we have access to the network and computing power to reproduce some of the analysis completed by this team and then expand on the current body of work.
+
+ 
+
+Your abstract should include:
+
+1)      Objective of the research;
+
+2)      Thesis or hypothesis;
+
+3)      Methodology or approaches to address the thesis or hypothesis; and
+
+4)      Summary of the findings or relevant results associated with the project.
+
