@@ -78,14 +78,7 @@ Our method of study is a literature review. We began our review with the Lambda 
 Our preliminary work suggests that NASA holds a wealth of information on this topic and has made it freely availible to the public. Through our partnership with the OneOklahoma Cyberinfrastructure Inititive (OneOCII), we have access to the network and computing power to reproduce some of the analysis completed by this team and then expand on the current body of work.
 
  
+Hayden Copy:
+The objective of this research is to establish a better understanding of the current work avaliable in the field of the Cosmic Microwave Background (CMB). Our thesis is that, while the current state of research has a created a base for the understanding of the CMB, more work is necessary through the use of computer science methods to expand upon the field. Our method o study is a literature review. We began our review with the Lambda group, a part of NASA's High Energy Astrophysics Science Archive Research Center. We extended our research to include literature related to the Wilkinson Microwave Anisotropy Probe. Our preliminary work suggests that NASA holds a wealth of information on this topic and has made it freely availible to the public. Through our partnership with the OneOklahoma Cyberinfrastructure Inititive (OneOCII), we have access to the network and computing power to reproduce some of the analysis completed by this team and then expand on the current body of work.
 
-Your abstract should include:
-
-1)      Objective of the research;
-
-2)      Thesis or hypothesis;
-
-3)      Methodology or approaches to address the thesis or hypothesis; and
-
-4)      Summary of the findings or relevant results associated with the project.
 
