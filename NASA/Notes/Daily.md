@@ -82,3 +82,39 @@ Hayden Copy: (990 characters out of 1500)
 The objective of this research is to establish a better understanding of the current work available in the field of the Cosmic Microwave Background (CMB). Our thesis is that, while the current state of research has a created a base for the understanding of the CMB, more work is necessary through the use of computer science methods to expand upon the field. Our method o study is a literature review. We began our review with the Lambda group, a part of NASA's High Energy Astrophysics Science Archive Research Center. We extended our research to include literature related to the Wilkinson Microwave Anisotropy Probe. Our preliminary work suggests that NASA holds a wealth of information on this topic and has made it freely available to the public. Through our partnership with the OneOklahoma Cyberinfrastructure Initiative (OneOCII), we have access to the network and computing power to reproduce some of the analysis completed by this team and then expand on the current body of work.
 
 
+## Review Articles
+Gary Hinshaw- WMAP Leads
+First-Year Wilkinson Microwave Anisotropy Probe (WMAP)* Observations: Preliminary Maps and Basic Results
+http://iopscience.iop.org/article/10.1086/377253/pdf
+
+Forward Search- Cited by 12067
+FIVE-YEAR WILKINSON MICROWAVE ANISOTROPY PROBE * OBSERVATIONS: COSMOLOGICAL INTERPRETATION
+http://iopscience.iop.org/article/10.1088/0067-0049/180/2/330/pdf
+
+Dynamics of dark energy
+https://arxiv.org/pdf/hep-th/0603057.pdf
+
+Type Ia Supernova Discoveries at z > 1 from the Hubble Space Telescope: Evidence for Past Deceleration and Constraints on Dark Energy Evolution*
+https://arxiv.org/pdf/astro-ph/0402512.pdf
+
+Backward Search-
+Local properties of the large-scale peaks of the CMB temperature
+http://iopscience.iop.org/article/10.1088/1475-7516/2017/05/023/pdf
+
+Multiscale analysis of the CMB temperature derivatives
+http://iopscience.iop.org/article/10.1088/1475-7516/2017/02/026/pdf
+
+Top referenced CMB articles
+Maps of Dust Infrared Emission for Use in Estimation of Reddening and Cosmic Microwave Background Radiation Foregrounds
+http://iopscience.iop.org/article/10.1086/305772/pdf
+
+Forward Search- Cited by 12858
+The Sloan Digital Sky Survey: Technical Summary
+http://iopscience.iop.org/article/10.1086/301513/pdf
+
+Stellar population synthesis at the resolution of 2003
+https://watermark.silverchair.com/344-4-1000.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAd8wggHbBgkqhkiG9w0BBwagggHMMIIByAIBADCCAcEGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMBjvscytbL7sOiFObAgEQgIIBksj1OPLpTEnzmuJkoSxcGk1Mv6HoF78aSmEu3haew7edm8lI-HGTKxnMAskhpAhrrs3yw7WvPsWmWKhIZg2f0zTGQjp43OSktP7xPKpUsjpObbtwaCMk_Z3eCpo7HTx2W2yKSkKLY3szLeq0QmbZQjqCAeG4V49FipNElH45GTi_mW-In2G5vUAVsmRe785JyGnuzFfozfsRVl6-dmKHhaSXCub5zfFAfjV4UNN297WzoErCdIBmAkJNwOZjenDFQB_H_SA5rRf6eiPyULYiLEy2KkQnOZnIArR27J8HDqkvzCiu0-URaUGKdWIkiymsDE6-meap41VvaCNLO553UKIzLmkufkutZ8cqx67dILo-NEBbsDTMDoJ9LNJNLfX4X6V3kRDZuSoWQ1KEJGnqYuDMA1AbUlUUkB3PLJ58sk_2q1krNFe-KLYBcP_XWCPXqV6oTX5wAlLlwmfG9oT0xhY35WNwAFhp0CeuYSUcdNuQ5Gd6UqAfv74Q2yfpZrHoCjAvDh6lNkJc8u_vwiP9LwalIQ
+
+Backward Search-
+Sloan Digital Sky Survey IV: Mapping the Milky Way, Nearby Galaxies, and the Distant Universe
+http://iopscience.iop.org/article/10.3847/1538-3881/aa7567/pdf
