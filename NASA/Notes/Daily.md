@@ -84,10 +84,12 @@ The objective of this research is to establish a better understanding of the cur
 
 ## Review Articles
 Gary Hinshaw- WMAP Leads
+
 First-Year Wilkinson Microwave Anisotropy Probe (WMAP)* Observations: Preliminary Maps and Basic Results
 http://iopscience.iop.org/article/10.1086/377253/pdf
 
 Forward Search- Cited by 12067
+
 FIVE-YEAR WILKINSON MICROWAVE ANISOTROPY PROBE * OBSERVATIONS: COSMOLOGICAL INTERPRETATION
 http://iopscience.iop.org/article/10.1088/0067-0049/180/2/330/pdf
 
@@ -98,6 +100,7 @@ Type Ia Supernova Discoveries at z > 1 from the Hubble Space Telescope: Evidence
 https://arxiv.org/pdf/astro-ph/0402512.pdf
 
 Backward Search-
+
 Local properties of the large-scale peaks of the CMB temperature
 http://iopscience.iop.org/article/10.1088/1475-7516/2017/05/023/pdf
 
@@ -105,10 +108,12 @@ Multiscale analysis of the CMB temperature derivatives
 http://iopscience.iop.org/article/10.1088/1475-7516/2017/02/026/pdf
 
 Top referenced CMB articles
+
 Maps of Dust Infrared Emission for Use in Estimation of Reddening and Cosmic Microwave Background Radiation Foregrounds
 http://iopscience.iop.org/article/10.1086/305772/pdf
 
 Forward Search- Cited by 12858
+
 The Sloan Digital Sky Survey: Technical Summary
 http://iopscience.iop.org/article/10.1086/301513/pdf
 
@@ -116,5 +121,6 @@ Stellar population synthesis at the resolution of 2003
 https://watermark.silverchair.com/344-4-1000.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAd8wggHbBgkqhkiG9w0BBwagggHMMIIByAIBADCCAcEGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMBjvscytbL7sOiFObAgEQgIIBksj1OPLpTEnzmuJkoSxcGk1Mv6HoF78aSmEu3haew7edm8lI-HGTKxnMAskhpAhrrs3yw7WvPsWmWKhIZg2f0zTGQjp43OSktP7xPKpUsjpObbtwaCMk_Z3eCpo7HTx2W2yKSkKLY3szLeq0QmbZQjqCAeG4V49FipNElH45GTi_mW-In2G5vUAVsmRe785JyGnuzFfozfsRVl6-dmKHhaSXCub5zfFAfjV4UNN297WzoErCdIBmAkJNwOZjenDFQB_H_SA5rRf6eiPyULYiLEy2KkQnOZnIArR27J8HDqkvzCiu0-URaUGKdWIkiymsDE6-meap41VvaCNLO553UKIzLmkufkutZ8cqx67dILo-NEBbsDTMDoJ9LNJNLfX4X6V3kRDZuSoWQ1KEJGnqYuDMA1AbUlUUkB3PLJ58sk_2q1krNFe-KLYBcP_XWCPXqV6oTX5wAlLlwmfG9oT0xhY35WNwAFhp0CeuYSUcdNuQ5Gd6UqAfv74Q2yfpZrHoCjAvDh6lNkJc8u_vwiP9LwalIQ
 
 Backward Search-
+
 Sloan Digital Sky Survey IV: Mapping the Milky Way, Nearby Galaxies, and the Distant Universe
 http://iopscience.iop.org/article/10.3847/1538-3881/aa7567/pdf
