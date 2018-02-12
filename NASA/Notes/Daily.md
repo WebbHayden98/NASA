@@ -74,10 +74,10 @@ ABSTRACT CONTENT (979 characters out of 1500)
 
 The objective of this research is to better understand the current work being done with Cosmic Microwave Background (CMB).
 Our thesis is that multiple open research questions remain within the field of CMB, and some are better suited for study using tools from computer science, including artificial intelligence, machine learning, and data science.
-Our method of study is a literature review. We began our review with the Lambda group, a part of NASA's High Energy Astrophysics Science Archive Research Center. We extended our research to include literature related to the Wilkinson Microwave Anisotropy Probe. 
+Our method of study is a literature review. We began our review with the Lambda group, a part of NASA's High Energy Astrophysics Science Archive Research Center. We extended our research to include literature related to the Wilkinson Microwave Anisotropy Probe.
 Our preliminary work suggests that NASA holds a wealth of information on this topic and has made it freely availible to the public. Through our partnership with the OneOklahoma Cyberinfrastructure Inititive (OneOCII), we have access to the network and computing power to reproduce some of the analysis completed by this team and then expand on the current body of work.
 
- 
+
 Hayden Copy: (990 characters out of 1500)
 The objective of this research is to establish a better understanding of the current work available in the field of the Cosmic Microwave Background (CMB). Our thesis is that, while the current state of research has a created a base for the understanding of the CMB, more work is necessary through the use of computer science methods to expand upon the field. Our method o study is a literature review. We began our review with the Lambda group, a part of NASA's High Energy Astrophysics Science Archive Research Center. We extended our research to include literature related to the Wilkinson Microwave Anisotropy Probe. Our preliminary work suggests that NASA holds a wealth of information on this topic and has made it freely available to the public. Through our partnership with the OneOklahoma Cyberinfrastructure Initiative (OneOCII), we have access to the network and computing power to reproduce some of the analysis completed by this team and then expand on the current body of work.
 
@@ -124,3 +124,15 @@ Backward Search-
 
 Sloan Digital Sky Survey IV: Mapping the Milky Way, Nearby Galaxies, and the Distant Universe
 http://iopscience.iop.org/article/10.3847/1538-3881/aa7567/pdf
+
+## Rough draft
+
+Introduction:
+
+The topic of this review is the current state of research being done on the Cosmic Mircrowave Background (CMB)
+
+Main Body:
+
+Conclusion:
+
+References:

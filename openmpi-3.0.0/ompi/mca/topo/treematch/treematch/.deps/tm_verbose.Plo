@@ -1,0 +1,6 @@
+treematch/tm_verbose.lo: treematch/tm_verbose.c \
+ /usr/include/stdc-predef.h treematch/tm_verbose.h
+
+/usr/include/stdc-predef.h:
+
+treematch/tm_verbose.h:
